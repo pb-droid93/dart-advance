@@ -1,7 +1,5 @@
 import "dart:math";
 
-import "shape.dart";
-
 abstract class Shape{
   double get parimeter;
 

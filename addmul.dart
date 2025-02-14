@@ -1,9 +1,15 @@
-import 'dart:math';
-
 class Point{
   Point(this.x, this.y);
   final int x;
   final int y;
+
+
+//.. hashcode inside object 
+//......Equal objects should have the same hashcode
+//......non equal objects should have different hash code
+
+  @override
+  int get hashCode => super.hashCode;
 
   @override
   String toString() => 'Point($x,$y)';
