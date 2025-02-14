@@ -41,10 +41,10 @@ void main(){
   dog.bark();
   dog.sleep();//because dog extands animal class
 
-  // final cow = Cow(age:12);
+  final cow = Cow(age:12);
 
-  // cow.moo();
-  // cow.sleep();
+  cow.moo();
+  cow.sleep();
 
   // final claver = ClaverDog(age:10);
   // claver.catchBall();
