@@ -7,6 +7,8 @@ class Point{
 //.. hashcode inside object 
 //......Equal objects should have the same hashcode
 //......non equal objects should have different hash code
+//.... use of hash code
+//.. choosing good hashcode is hard
 
   @override
   int get hashCode => super.hashCode;

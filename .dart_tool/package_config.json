@@ -2,6 +2,24 @@
   "configVersion": 2,
   "packages": [
     {
+      "name": "collection",
+      "rootUri": "file:///C:/Users/Consultant-IT/AppData/Local/Pub/Cache/hosted/pub.dev/collection-1.18.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "equatable",
+      "rootUri": "file:///C:/Users/Consultant-IT/AppData/Local/Pub/Cache/hosted/pub.dev/equatable-2.0.7",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "meta",
+      "rootUri": "file:///C:/Users/Consultant-IT/AppData/Local/Pub/Cache/hosted/pub.dev/meta-1.16.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "pedantic",
       "rootUri": "file:///C:/Users/Consultant-IT/AppData/Local/Pub/Cache/hosted/pub.dev/pedantic-1.11.1",
       "packageUri": "lib/",
@@ -14,7 +32,7 @@
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2025-02-12T05:23:12.950296Z",
+  "generated": "2025-02-15T04:20:04.531052Z",
   "generator": "pub",
   "generatorVersion": "3.3.0"
 }
